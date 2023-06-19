@@ -79,6 +79,7 @@ This plot shows, per month, the offical published counts from San Diego Downtown
 
 
 The May 2023 update was done by researchers at the Homelessness Hub at UC San Diego:
+
 * Zhongqi Zheng
 * Daniel Sjoholm
 * Yao Fu
