@@ -73,3 +73,13 @@ This plot shows, per month, the offical published counts from San Diego Downtown
 4. Fixed missing dates in Columbia, 2016, incorrect dates in Marina 2016, and other errors
 5. Excluded several months with quality problems, improved documentation
 6. Added column for source file, removed duplicated data form marina, 2016
+7. Added data for 2023 update.
+
+## Acknowledgements
+
+
+The May 2023 update was done by researchers at the Homelessness Hub at UC San Diego:
+* Zhongqi Zheng
+* Daniel Sjoholm
+* Yao Fu
+

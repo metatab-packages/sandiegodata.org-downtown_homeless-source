@@ -15,18 +15,18 @@ Version.Minor,1
 Version.Patch,1
 Modified,2023-06-07T17:49:03
 Giturl,https://github.com/metatab-packages/sandiegodata.org-downtown_homeless-source.git
-""
+
 Section,Contacts,Email,Organization,Url,
 Wrangler,Eric Busboom,eric@civicknowledge.com,Civic Knowledge,http://civicknowledge.com,
 Origin,,,Downtown San Diego Partnership,https://downtownsandiego.org/,
-""
+
 Section,Documentation,Title,Description,,
 Documentation,file:README.md,README,,,
-""
+
 Section,References,Name,Description,,
 Reference,data/2019,source_2019,Source directory for 2019 files,,
-Reference,data/2023,source_2023,Source directory for 2023 files,,
-""
+Reference,data/2023/output,source_2023,Source directory for 2023 files,,
+
 Section,Resources,Name,Description,Schema,
 Datafile,http://ds.civicknowledge.org.s3.amazonaws.com/downtownsandiego.org/annotations/gcp_intersections_2230.csv,intersections_2019,Street intersections used for Ground Control Points,intersections,
 Datafile,data/intersections_2023.csv,intersections_2023,Street intersections used for Ground Control Points,intersections,
@@ -36,7 +36,7 @@ Datafile,notebooks/build.ipynb#gcp_transforms,gcp_transforms,Final ground contro
 Datafile,notebooks/build.ipynb#raw_count_annotations,raw_count_annotations,Lightly processed count annotations,,
 Datafile,notebooks/build.ipynb#raw_file_annotations,raw_file_annotations,Lightly processed file annotations,,
 Datafile,notebooks/build.ipynb#raw_gcp,raw_gcp,Lightly processed Ground Control Points,,
-""
+
 Section,Schema,DataType,Description,,,
 Table,counts,,,,,
 Table.Column,file_id,string,Link to files table,,,
