@@ -2,18 +2,18 @@ Declare,metatab-latest
 Title,Downtown Homelessness Source Package
 Description,Source files for San Diego Downtown homeless sleeper counts
 Identifier,06ecc31c-693b-4b9a-b222-79e7fa5c1780
-Name,sandiegodata.org-downtown_homeless-source-7.2.1
+Name,sandiegodata.org-downtown_homeless-source-7.2.3
 Dataset,downtown_homeless
 Origin,sandiegodata.org
 Time,
 Space,
 Grain,
 Variant,source
-Version,7.2.1
+Version,7.2.3
 Version.Major,7
 Version.Minor,2
-Version.Patch,1
-Modified,2024-11-26T05:13:31
+Version.Patch,3
+Modified,2024-11-26T06:14:26
 Giturl,https://github.com/metatab-packages/sandiegodata.org-downtown_homeless-source.git
 ""
 Section,Contacts,Email,Organization,Url,
