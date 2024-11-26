@@ -2,18 +2,18 @@ Declare,metatab-latest
 Title,Downtown Homelessness Source Package
 Description,Source files for San Diego Downtown homeless sleeper counts
 Identifier,06ecc31c-693b-4b9a-b222-79e7fa5c1780
-Name,sandiegodata.org-downtown_homeless-source-7.1.3
+Name,sandiegodata.org-downtown_homeless-source-7.2.1
 Dataset,downtown_homeless
 Origin,sandiegodata.org
 Time,
 Space,
 Grain,
 Variant,source
-Version,7.1.3
+Version,7.2.1
 Version.Major,7
-Version.Minor,1
-Version.Patch,3
-Modified,2023-06-19T20:24:33
+Version.Minor,2
+Version.Patch,1
+Modified,2024-11-26T05:13:31
 Giturl,https://github.com/metatab-packages/sandiegodata.org-downtown_homeless-source.git
 ""
 Section,Contacts,Email,Organization,Url,
@@ -25,11 +25,11 @@ Documentation,file:README.md,README,,,
 ""
 Section,References,Name,Description,,
 Reference,data/2019,source_2019,Source directory for 2019 files,,
-Reference,data/2023/output,source_2023,Source directory for 2023 files,,
+Reference,data/2023/SDDT_102923/output,source_2023,Source directory for 2023 files,,
 ""
 Section,Resources,Name,Description,Schema,
 Datafile,data/2019/intersections.csv,intersections_2019,"Street intersections used for Ground Control Points, 2019",intersections,
-Datafile,data/2023/intersections.csv,intersections_2023,"Street intersections used for Ground Control Points, 2023 update",intersections,
+Datafile,data/2023/SDDT_102923/intersections.csv,intersections_2023,"Street intersections used for Ground Control Points, 2023 update",intersections,
 Datafile,notebooks/build.ipynb#counts,counts,Final homeless sleeper counts,,
 Datafile,notebooks/build.ipynb#files,files,"Final file annotations, including total counts, temperature and weather.",,
 Datafile,notebooks/build.ipynb#gcp_transforms,gcp_transforms,Final ground control points and affine transformation matrices,,

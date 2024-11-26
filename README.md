@@ -84,3 +84,11 @@ The May 2023 update was done by researchers at the Homelessness Hub at UC San Di
 * Daniel Sjoholm
 * Yao Fu
 
+The 2024 update was performed by:
+
+* Zhongqi Zheng
+* Daniel Sjoholm
+* Michael Yang
+* Patricia Estaris
+* Lily Keefauver
+* 
